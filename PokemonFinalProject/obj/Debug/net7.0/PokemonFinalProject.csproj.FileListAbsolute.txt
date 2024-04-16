@@ -1,0 +1,15 @@
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/bin/Debug/net7.0/PokemonFinalProject
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/bin/Debug/net7.0/PokemonFinalProject.deps.json
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/bin/Debug/net7.0/PokemonFinalProject.runtimeconfig.json
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/bin/Debug/net7.0/PokemonFinalProject.dll
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/bin/Debug/net7.0/PokemonFinalProject.pdb
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.csproj.AssemblyReference.cache
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.AssemblyInfoInputs.cache
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.AssemblyInfo.cs
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.csproj.CoreCompileInputs.cache
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.dll
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/refint/PokemonFinalProject.dll
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.pdb
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/PokemonFinalProject.genruntimeconfig.cache
+/Users/yahyaattitich/Documents/GitHub/final-project-Yahya-Attitich/PokemonFinalProject/PokemonFinalProject/obj/Debug/net7.0/ref/PokemonFinalProject.dll
